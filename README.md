@@ -3,8 +3,8 @@ https://win11.bluedge.me adresindeki sitenin türkçe versiyonudur.
 Kendinize Kurup sitenize upload edebilirsiniz.
 [![stars](https://img.shields.io/github/stars/codinathor/windows11-onlinetr?color=yellow&logo=github&style=for-the-badge)](https://github.com/CodinaThor/windows11-onlinetr)
 [![supportServer](https://img.shields.io/discord/723554233240256613?color=7289DA&label=Support&logo=discord&style=for-the-badge)](https://discord.gg/gMc5c6SPsT)
-[![forks](https://img.shields.io/github/forks/CodinaThor/windows11-onlinetr?color=green&logo=github&style=for-the-badge)](https://github.com/CodinaThor/windows11-onlinetr)
-[![issues](https://img.shields.io/github/issues/CodinaThor/windows11-onlinetr?color=red&logo=github&style=for-the-badge)](https://github.com/CodinaThor/windows11-onlinetr)
+[![forks](https://img.shields.io/github/forks/CodinaThor/windows11-onlinetr?color=green&logo=github&style=for-the-badge)](https://github.com/CodinaThor/windows11-onlinetr/network/members)
+[![issues](https://img.shields.io/github/issues/codinathor/windows11-onlinetr?color=red&logo=github&style=for-the-badge)](https://github.com/CodinaThor/windows11-onlinetr)
 
 <p align="center">
   <img src="icon.png" alt="Logo" width="160" height="160" />
